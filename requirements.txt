@@ -1,0 +1,7 @@
+streamlit
+jieba
+gensim
+networkx
+matplotlib
+pandas
+scikit-learn
