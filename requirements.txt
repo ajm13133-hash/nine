@@ -4,4 +4,4 @@ gensim>=4.3.3
 networkx
 matplotlib
 pandas
-scikit‑learn
+scikit-learn
