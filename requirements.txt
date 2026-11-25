@@ -1,7 +1,7 @@
 streamlit
 jieba
-gensim>=4.3.3
+gensim
 networkx
 matplotlib
 pandas
-scikit-learn
+scikit‑learn
